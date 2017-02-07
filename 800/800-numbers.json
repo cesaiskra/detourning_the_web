@@ -1235,7 +1235,9 @@
   },
   "I-Pass Illinois": {
     "url": "https://www.800-numbers.net/i-pass-illinois/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-824-7277"
+    }
   },
   "Irs": {
     "url": "https://www.800-numbers.net/irs/",
@@ -1243,463 +1245,1168 @@
   },
   "Jackson Hewitt": {
     "url": "https://www.800-numbers.net/jackson-hewitt/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-234-1040"
+    }
   },
   "JCPenney": {
     "url": "https://www.800-numbers.net/jcpenney/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-322-1189",
+      "Credit Card Bill Pay": "800-527-4403",
+      "Gift Registry/u>": "800-527-4438",
+      "source": "4004600007"
+    }
   },
   "Jetblue": {
     "url": "https://www.800-numbers.net/jetblue/",
-    "nums": {}
+    "nums": {
+      "US Customer Service & Reservations": "800-538-2583",
+      "Aruba": "297-588-5388",
+      "Bahamas": "800-538-2853",
+      "Barbados": "877-596-2413",
+      "Bermuda": "800-884-9616",
+      "Costa Rica": "800-012-1666",
+      "Dominican Republic": "800-538-2583",
+      "Germany": "800-6648288",
+      "Jamaica": "800-963-3014",
+      "Mexico": "800-861-3372",
+      "Saint Lucia": "8777669614",
+      "St. Maarten": "877-306-4939",
+      "Turks & Caicos": "8773905447",
+      "Deaf or hard of hearing customers": "800-336-5530"
+    }
   },
   "KCP&amp;L": {
     "url": "https://www.800-numbers.net/kcpl/",
-    "nums": {}
+    "nums": {
+      "Emergency & Power Out": "888-544-4852",
+      "Special Payment & Billing": "888-471-5275",
+      "Call Before Dig": "800-344-7233"
+    }
   },
   "Key Bank": {
     "url": "https://www.800-numbers.net/key-bank/",
-    "nums": {}
+    "nums": {
+      "Key Bank Customer Service / Support": "800-995-9995",
+      "Key Bank Online Banking Customer Service": "800-539-1539",
+      "Lost or Stolen ATM or Debit Card": "800-539-9056",
+      "Fraud or Theft": "800-433-0124"
+    }
   },
   "KLM": {
     "url": "https://www.800-numbers.net/klm/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "866-434-0320",
+      "Reservations": "800 618 0104"
+    }
   },
   "KMart": {
     "url": "https://www.800-numbers.net/kmart/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "866-562-7848",
+      "Parts": "800-252-1698",
+      "Installation": "800-326-8738",
+      "Home Services/Repairs": "800-469-4663",
+      "Rewards": "800-991-8708"
+    }
   },
   "Kohls": {
     "url": "https://www.800-numbers.net/kohls/",
-    "nums": {}
+    "nums": {
+      "Kohls Customer Service": "855-564-5705",
+      "Kohl’s Charge Card Customer Service": "855-564-5748",
+      "Kohl’s Gift Cards": "866-887-8884"
+    }
   },
   "Kroger": {
     "url": "https://www.800-numbers.net/kroger/",
-    "nums": {}
+    "nums": {
+      "Main Customer Service": "800-576-4377",
+      "Coupons & Promotions": "866-221-4141",
+      "Online Accounts": "866-221-4141"
+    }
   },
   "La Quinta": {
     "url": "https://www.800-numbers.net/la-quinta/",
-    "nums": {}
+    "nums": {
+      "La Quinta  Reservations": "800 753 3757",
+      "La Quinta  Customer Service & Support": "800-642-4241"
+    }
   },
   "Liberty Mutual": {
     "url": "https://www.800-numbers.net/liberty-mutual/",
-    "nums": {}
+    "nums": {
+      "Liberty Mutual Auto & Home Customer Service / Support": "888-398-8924",
+      "Liberty Mutual Claims": "800-225-2467",
+      "Liberty Mutual Life Insurance Services": "800-451-7065",
+      "Roadside Assistance": "800-426-9898",
+      "Report Fraud": "617-357-9500"
+    }
   },
   "LifeLock": {
     "url": "https://www.800-numbers.net/lifelock/",
-    "nums": {}
+    "nums": {
+      "LifeLock Orders": "800-416-0599"
+    }
   },
   "LL Bean": {
     "url": "https://www.800-numbers.net/ll-bean/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-441-5713"
+    }
   },
   "Lowes": {
     "url": "https://www.800-numbers.net/lowes/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-445-6937",
+      "Sales & Products": "877-465-6937"
+    }
   },
   "Lufthansa": {
     "url": "https://www.800-numbers.net/lufthansa/",
-    "nums": {}
+    "nums": {
+      "Lufthansa Reservations": "800-645-3880",
+      "Lufthansa Technical Support Hotline": "866-953-2294"
+    }
   },
   "M&amp;T Bank": {
     "url": "https://www.800-numbers.net/mt-bank/",
-    "nums": {}
+    "nums": {
+      "M&T Bank Customer Service / Support": "800-724-2440",
+      "M&T Online & Mobile Banking": "800-790-9130",
+      "Replace Debit Card": "800-724-1552"
+    }
   },
   "Macys": {
     "url": "https://www.800-numbers.net/macys/",
-    "nums": {}
+    "nums": {
+      "Macys Customer Service": "800-289-6229",
+      "Macy’s Credit Services": "877-493-9207",
+      "Macy’s Furniture & Bedding": "888-822-6229"
+    }
   },
   "MagicJack": {
     "url": "https://www.800-numbers.net/magicjack/",
-    "nums": {}
+    "nums": {
+      "MagicJack Customer Service & Billing": "561-594-9925"
+    }
   },
   "Marriott": {
     "url": "https://www.800-numbers.net/marriott/",
-    "nums": {}
+    "nums": {
+      "USA & Canada Reservations": "888-236-2427",
+      "Customer Support": "801-468-4000",
+      "Internet Customer Care": "800-721-7033",
+      "Group & Event Planning": "800-831-4004",
+      "Rewards Reservations": "800-952-2027",
+      "Rewards Program": "800-493-3278",
+      "For Gaylord Hotel reservations": "877 382 7299",
+      "Antigua & Barbuda": "800 986 2313",
+      "Argentina": "800 444 9846",
+      "Bahamas": "800 956 5620",
+      "Barbados": "800 228 9290",
+      "Bermuda": "800 228 9290",
+      "Brazil": "800 703 1512",
+      "Canada": "888 236 2427",
+      "French – Toll-free 1 866 580 6279": "866 580 6279",
+      "Cayman Islands": "800 228 9290",
+      "Chile": "123 00208067",
+      "China": "400 830 0251",
+      "Colombia": "800 9520356",
+      "Costa Rica": "800 052 1390",
+      "Dominica": "800 986 2410",
+      "Dominican Republic": "800 956 5620",
+      "Greece": "800 44127686",
+      "Guatemala": "800 835 0066",
+      "Haiti": "800 228 9290",
+      "India": "18001025000",
+      "Indonesia": "180 360 6278",
+      "Barak 013 800 2886 4727": "013 800 2886",
+      "Bezeq 014 800 2886 4727": "014 800 2886",
+      "Jamaica": "800 963 2454",
+      "Lebanon Country Code 01426801; + AT&T 8004326626": "8004326626",
+      "Mexico": "800 561 4756",
+      "Morocco Country Code 002110011; + AT&T 8004326626": "8004326626",
+      "Netherlands": "800 0220122",
+      "Netherlands Antilles": "800 228 9290",
+      "Nicaragua": "800 226 0230",
+      "Pakistan Karachi – Toll 00 800 90971003": "800 90971003",
+      "Panama": "800 052 1214",
+      "Paraguay": "800 441 0010",
+      "Poland": "800 4411205",
+      "Puerto Rico": "800 236 2427",
+      "Qatar": "0080097114",
+      "Russia": "810 800 6277",
+      "Russia Moscow": "007 495 5809",
+      "Saudi Arabia": "800 8971437",
+      "Singapore": "800 6011378",
+      "South Korea": "798 601 8298",
+      "St. Kitts & Nevis": "800 228 9290",
+      "St. Lucia": "800 228 9290",
+      "Syria Country Code 0801 + AT&T 8004326626": "8004326626",
+      "Trinidad & Tobago": "800 956 5620",
+      "Turkey": "800 13838090",
+      "Turks & Caicos": "800 228 9290",
+      "United Arab Emirates": "80062774688",
+      "United States of America": "888 236 2427",
+      "Venezuela": "800 100 4921",
+      "Virgin Islands, US": "800 228 9290",
+      "Yemen Country Code 00800101; + AT&T 8004326626": "8004326626"
+    }
   },
   "Mastercard": {
     "url": "https://www.800-numbers.net/mastercard/",
-    "nums": {}
+    "nums": {
+      "Lost or Stolen Card": "800-627-8372",
+      "MasterCard Assistance Center": "800-307-7309"
+    }
   },
   "Medco": {
     "url": "https://www.800-numbers.net/medco/",
-    "nums": {}
+    "nums": {
+      "Medco Member Services": "800 251-7690",
+      "Pharmacist Services Help Desk": "800 922-1557",
+      "Physician Service Center": "800 211-1456",
+      "Medco Discount Card Program": "877 733-6765",
+      "Medco ePresribe": "800 411-1665"
+    }
   },
   "Mediacom": {
     "url": "https://www.800-numbers.net/mediacom/",
-    "nums": {}
+    "nums": {
+      "Mediacom Customer Service": "855-633-4226",
+      "Order DirectTV": "888-777-2454"
+    }
   },
   "Medicare": {
     "url": "https://www.800-numbers.net/medicare/",
-    "nums": {}
+    "nums": {
+      "Contact Medicare by Phone": "800-633-4227",
+      "\nContact Medicare TTY number": "877-486-2048",
+      "Sign up for Medicare Part B": "800-772-1213"
+    }
   },
   "MegaBus": {
     "url": "https://www.800-numbers.net/megabus/",
-    "nums": {}
+    "nums": {
+      "MegaBus Reservations & Customer Service": "877-462-6342"
+    }
   },
   "Meijer": {
     "url": "https://www.800-numbers.net/meijer/",
-    "nums": {}
+    "nums": {
+      "Main Customer Service": "800-432-3113"
+    }
   },
   "MetroPCS": {
     "url": "https://www.800-numbers.net/metropcs/",
-    "nums": {}
+    "nums": {
+      "MetroPCS Personal Banking Customer Service": "888-863-8768"
+    }
   },
   "Microsoft": {
     "url": "https://www.800-numbers.net/microsoft/",
-    "nums": {}
+    "nums": {
+      "United States Support Center Contact": "800-426-9400",
+      "Canada States Support Center Contact": "800-936-8790",
+      "United States Professional Support Phone Numbers": "800-642-7676",
+      "Canada Professional Support Phone Numbers": "800-805-4440",
+      "United States Technical Support": "800-936-4900",
+      "Canada Technical Support": "800-805-4440",
+      "Microsoft Partner Technical Services USA": "800-676-7658",
+      "Microsoft Partner Technical Services Canada—French": "877-453-1317"
+    }
   },
   "MoneyGram": {
     "url": "https://www.800-numbers.net/moneygram/",
-    "nums": {}
+    "nums": {
+      "MoneyGram Customer Support Service": "666-394-4726",
+      "MoneyGram Spanish": "800-955-7777"
+    }
   },
   "Motel 6": {
     "url": "https://www.800-numbers.net/motel-6/",
-    "nums": {}
+    "nums": {
+      "Reservations": "800-899-9841",
+      "Choice Guest Relations Service Desk": "800-300-8800"
+    }
   },
   "msn": {
     "url": "https://www.800-numbers.net/msn/",
-    "nums": {}
+    "nums": {
+      "MSN Customer Support": "800-416-0599"
+    }
   },
   "National Bank Of Canada": {
     "url": "https://www.800-numbers.net/national-bank-of-canada/",
-    "nums": {}
+    "nums": {
+      "Personal Customer Service / Internet Banking": "888 483-5628",
+      "Business Customer Service": "877 394-6611"
+    }
   },
   "National": {
     "url": "https://www.800-numbers.net/national/",
-    "nums": {}
+    "nums": {
+      "Reservations": "877)222-9058",
+      "Technical / Web Assistance": "888-501-9010",
+      "Customer Service (past rentals & billings)": "800)468-3334",
+      "Emergency Roadside Assistance": "800)367-6767"
+    }
   },
   "Nationwide": {
     "url": "https://www.800-numbers.net/nationwide/",
-    "nums": {}
+    "nums": {
+      "Quotes / Customer Service / General Questions": "877-669-6877",
+      "Auto & Property Insurance Claims": "800-421-3535",
+      "Claims Department": "800-282-1446",
+      "Contact Agent": "866-633-5749",
+      "Life Insurance Service": "800-848-6331",
+      "Life Insurane Advisors": "800-321-6064",
+      "Business Insurance Service": "888-508-8622",
+      "Farm and ranch sales service": "800-255-9913",
+      "Farm and ranch claims": "800-248-6283",
+      "Farm service center": "800-418-3188",
+      "Commercial agribusiness sales, service, claims, risk management": "800-228-6700",
+      "Employee Benefits Sales and support": "888-674-0385",
+      "General liability": "888-674-0385",
+      "GrouProtector accident medical": "800-525-8669",
+      "VPI pet insurance": "877-263-6007",
+      "Business travel accident": "800-500-4364",
+      "International travel medical": "866-761-8171",
+      "Trip cancellation": "877-263-6007",
+      "Annual travel": "877-970-9059"
+    }
   },
   "Navy Federal": {
     "url": "https://www.800-numbers.net/navy-federal/",
-    "nums": {}
+    "nums": {
+      "Navy Federal Customer Service / Support / General Questions": "888-842-6328",
+      "Lost or Stolen Card": "888-842-6328",
+      "Member and Account Services": "888-842-6328",
+      "Mortgage Services": "888-842-6328",
+      "Check Reorders": "888-842-6328",
+      "Bill Pay": "888-560-8031",
+      "Contact Business Services": "877-418-1462"
+    }
   },
   "Neiman Marcus": {
     "url": "https://www.800-numbers.net/neiman-marcus/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "888-888-4757"
+    }
   },
   "Net10": {
     "url": "https://www.800-numbers.net/net10/",
-    "nums": {}
+    "nums": {
+      "Net10 Customer Service": "800-588-2159",
+      "Home Phone Customers": "800-299-7280"
+    }
   },
   "Netflix": {
     "url": "https://www.800-numbers.net/netflix/",
-    "nums": {}
+    "nums": {
+      " Customer Service": "866-579-7172"
+    }
   },
   "Nordstrom": {
     "url": "https://www.800-numbers.net/nordstrom/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "888-282-6060",
+      "Card Services": "800-964-1800",
+      "Canada": "877-794-5304",
+      "International": "319-846-4140"
+    }
   },
   "Norton": {
     "url": "https://www.800-numbers.net/norton/",
-    "nums": {}
+    "nums": {
+      "Norton Customer Support Service": "800-745-6034"
+    }
   },
   "Norwegian Cruise Lines": {
     "url": "https://www.800-numbers.net/norwegian/",
-    "nums": {}
+    "nums": {
+      "Norwegian Cruise Lines Booking / Customer Service Number": "866-234-7350",
+      "Website / Technical Assistance": "866-625-1160",
+      "Guest Relations, Post Cruise": "866-625-1164",
+      "Contact a Ship / Emergency Number": "888-627-4477"
+    }
   },
   "NSTAR": {
     "url": "https://www.800-numbers.net/nstar/",
-    "nums": {}
+    "nums": {
+      "NSTAR Customer Support Service": "666-394-4726"
+    }
   },
   "Office Depot": {
     "url": "https://www.800-numbers.net/office-depot/",
-    "nums": {}
+    "nums": {
+      "Office Depot Customer Service": "800-463-3768"
+    }
   },
   "OG&amp;E": {
     "url": "https://www.800-numbers.net/oge/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-743-5000",
+      "Emergency": "800-522-6870"
+    }
   },
   "Optimum": {
     "url": "https://www.800-numbers.net/optimum/",
-    "nums": {}
+    "nums": {
+      "Optimum Customer Service / Tech Support": "888-276-5255",
+      "Sales": "855-267-8468",
+      "Connecticut Residential Customer Service": "203-870-2583",
+      "Connecticut Residential Sales": "203-870-2491",
+      "New Jersey\tResidential Customer Service": "973-230-6046",
+      "New Jersey Residential Sales": "973-230-2036",
+      "Long Island Residential Customer Service": "631-393-0636",
+      "Long Island Residential Sales": "631-393-0706",
+      "NY": "718-975-1179"
+    }
   },
   "Oral B": {
     "url": "https://www.800-numbers.net/oral-b/",
-    "nums": {}
+    "nums": {
+      "Plan B Customer Support": "800-566-7252"
+    }
   },
   "Palmetto Pass": {
     "url": "https://www.800-numbers.net/palmetto-pass/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "843-342-6718"
+    }
   },
   "Payless": {
     "url": "https://www.800-numbers.net/payless/",
-    "nums": {}
+    "nums": {
+      "Payless Reservations & Customer Support": "800-729-5377"
+    }
   },
   "Paypal": {
     "url": "https://www.800-numbers.net/paypal/",
-    "nums": {}
+    "nums": {
+      "Customer Support": "888-221-1161"
+    }
   },
   "Peter Pan": {
     "url": "https://www.800-numbers.net/peter-pan/",
-    "nums": {}
+    "nums": {
+      "Peter Pan Reservations & Customer Service": "800-343-9999"
+    }
   },
   "PG&amp;E": {
     "url": "https://www.800-numbers.net/pge/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-743-5000",
+      "Electric Outage Information": "800-743-5002",
+      "Natural Gas System Information": "888-743-7431"
+    }
   },
   "PikePass": {
     "url": "https://www.800-numbers.net/pikepass/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "877-229-8655",
+      "Violations": "877-774-9569"
+    }
   },
   "Plan B": {
     "url": "https://www.800-numbers.net/plan-b/",
-    "nums": {}
+    "nums": {
+      "Plan B Customer Support": "800-330-1271"
+    }
   },
   "Playstation": {
     "url": "https://www.800-numbers.net/playstation/",
-    "nums": {}
+    "nums": {
+      "Playstation Live Customer Service": "800-345-7669"
+    }
   },
   "PNC Bank": {
     "url": "https://www.800-numbers.net/pnc/",
-    "nums": {}
+    "nums": {
+      "Personal Accounts": "888-762-2265",
+      "Business Banking": "877-287-2654",
+      "Tech Support for Online Banking": "800-762-2035"
+    }
   },
   "Priceline": {
     "url": "https://www.800-numbers.net/priceline/",
-    "nums": {}
+    "nums": {
+      "Priceline Customer Service": "877-477-5807",
+      "United States": "877-477-5807",
+      "Canada": "877-477-5807",
+      "Mexico": "800 123 3316",
+      "Austria": "800 774 2354",
+      "Belgium": "800 774 2354",
+      "Czech Republic": "800 774 2354",
+      "Denmark": "800 774 2354",
+      "Finland": "800 774 2354",
+      "Hungary": "800 774 2354",
+      "Ireland": "800 774 2354",
+      "Israel": "800 774 2354",
+      "Italy": "029 148 3354",
+      "Netherlands": "020 200 8497",
+      "Poland": "800 774 2354",
+      "Portugal": "800 774 2354",
+      "Switzerland": "800 774 2354",
+      "Antigua and Barbuda": "800-774-2354",
+      "Bahamas": "800-774-2354",
+      "Barbados": "800-774-2354",
+      "Bermuda": "800-774-2354",
+      "Cayman Islands": "800-774-2354",
+      "Dominican Republic": "888-751-9159",
+      "Grenada": "800-774-2354",
+      "Jamaica": "800-774-2354",
+      "Puerto Rico": "800-774-2354",
+      "St. Kitts and Nevis": "800-774-2354",
+      "St Lucia": "800-774-2354",
+      "Turks and Caicos Islands": "800-774-2354",
+      "Trinidad and Tobago": "800-774-2354",
+      "British Virgin Islands": "800-774-2354",
+      "US Virgin Islands": "800-774-2354",
+      "China": "800 774 2354",
+      "Guam": "800-774-2354",
+      "Hong Kong": "800 774 2354",
+      "Japan": "033 570 8726",
+      "Republic of Korea": "023 483 7211",
+      "Philippines": "800 774 2354",
+      "Singapore": "800 774 2354",
+      "Thailand": "800 774 2354",
+      "Taiwan": "800 774 2354",
+      "Argentina": "800 774 2354",
+      "Brazil": "800 774 2354"
+    }
   },
   "Princess Cruises": {
     "url": "https://www.800-numbers.net/princess/",
-    "nums": {}
+    "nums": {
+      "Princess Cruises Booking Number": "800-774-6237",
+      "Emergency Number / Direct Ship": "877-656-7447",
+      "Group Cruises": "866-335-6379"
+    }
   },
   "Progressive": {
     "url": "https://www.800-numbers.net/progressive/",
-    "nums": {}
+    "nums": {
+      "Progressive General Customer Service/Policy Information": "800-776-4737",
+      "Progressive Car, Motorcycle, Boat/PWC, RV Quote": "800-776-4737",
+      "Progressive Business Auto and Commercial Truck Quote": "888-240-9839"
+    }
   },
   "PSEG LI": {
     "url": "https://www.800-numbers.net/pseg-long-island/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-490-0025",
+      "Emergency or Power Outage": "800-490-0075",
+      "Business": "800-966-4818"
+    }
   },
   "PSEG NJ": {
     "url": "https://www.800-numbers.net/pseg-new-jersey/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-436-7734",
+      "Heating Problems": "800-436-7734"
+    }
   },
   "Publix": {
     "url": "https://www.800-numbers.net/publix/",
-    "nums": {}
+    "nums": {
+      "Main Customer Service": "800-242-1227"
+    }
   },
   "Qantas Airlines": {
     "url": "https://www.800-numbers.net/qantas-airlines/",
-    "nums": {}
+    "nums": {
+      "USA & Canada Qantas Reservations": "800 227 4500"
+    }
   },
   "Qatar Airways": {
     "url": "https://www.800-numbers.net/qatar/",
-    "nums": {}
+    "nums": {
+      "Qatar Reservations": "877-777-2827",
+      "Privilege Club": "800-988-6128",
+      "Canada Reservations": "888-366-5666",
+      "United Kingdom Reservations": "333 320 2454"
+    }
   },
   "Quality Inn": {
     "url": "https://www.800-numbers.net/quality-inn/",
-    "nums": {}
+    "nums": {
+      "Reservations": "877-424-6423",
+      "Choice Guest Relations Service Desk": "800-300-8800"
+    }
   },
   "Quick Pass North Carolina": {
     "url": "https://www.800-numbers.net/quick-pass-north-carolina/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "877-769-7277"
+    }
   },
   "QVC": {
     "url": "https://www.800-numbers.net/qvc/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "888-345-5788"
+    }
   },
   "Regions Bank": {
     "url": "https://www.800-numbers.net/regions/",
-    "nums": {}
+    "nums": {
+      "Regions Customer Service / Support": "800-734-4667",
+      "Regions Online Banking Customer Service": "800-472-2265",
+      "Regions Credit Card": "800-472-2265",
+      "Lost or Stolen Regions Card": "800-295-8472"
+    }
   },
   "RG&amp;E": {
     "url": "https://www.800-numbers.net/rge/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-743-2110",
+      "Emergency / Electric Outage": "800-743-1701",
+      "Self Service Line": "800-295-7323"
+    }
   },
   "Rite Aid": {
     "url": "https://www.800-numbers.net/rite-aid/",
-    "nums": {}
+    "nums": {
+      "Rite Aid Customer Support": "800-748-3243",
+      "Online Store Customer Support": "866-967-4832"
+    }
   },
   "Ritz Carlton": {
     "url": "https://www.800-numbers.net/ritz-carlton/",
-    "nums": {}
+    "nums": {
+      "Us & Canada Reservations": "800-542-8680"
+    }
   },
   "Rogers Wireless": {
     "url": "https://www.800-numbers.net/rogers-wireless/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "855 381-7834",
+      "Pay As You Go": "800 575-9090",
+      "Activation & Top Up": "866 594-9456"
+    }
   },
   "RBC": {
     "url": "https://www.800-numbers.net/royal-bank-of-canada/",
-    "nums": {}
+    "nums": {
+      "Customer Service, Online Banking": "866-826-2880",
+      "Card Services": "800-769-2512"
+    }
   },
   "Royal Caribbean": {
     "url": "https://www.800-numbers.net/royal-caribbean/",
-    "nums": {}
+    "nums": {
+      "Royal Caribbean Booking / Customer Service Number": "866-562-7625",
+      "Website / Online Assistance": "800-398-9819",
+      "Corporate Guest Relations": "800-256-6649"
+    }
   },
   "S&amp;T Bank": {
     "url": "https://www.800-numbers.net/st-bank/",
-    "nums": {}
+    "nums": {
+      "Customer Service / Support": "800-325-2265"
+    }
   },
   "Safeway": {
     "url": "https://www.800-numbers.net/safeway/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "877-723-3929"
+    }
   },
   "Sallie Mae": {
     "url": "https://www.800-numbers.net/sallie-mae/",
-    "nums": {}
+    "nums": {
+      "Sallie Mae Student Loan Customer Service": "800-472-5543"
+    }
   },
   "Samsung": {
     "url": "https://www.800-numbers.net/samsung/",
-    "nums": {}
+    "nums": {
+      "Samsung Apps product support": "888-899-7609",
+      "All other Products product support": "800-726-7864",
+      "Laptop, Printer, Galaxy Tabs product support": "800-726-7864",
+      "Hearing-Impaired (TTY) product support": "888-899-7608",
+      "Hard Disk Drives product support": "800-732-4283",
+      "All other products": "800-726-7864"
+    }
   },
   "SDG&amp;E": {
     "url": "https://www.800-numbers.net/sdge/",
-    "nums": {}
+    "nums": {
+      "San Diego Gas & Electric Customer Support": "800-411-7343",
+      "Business": "800-336-7343"
+    }
   },
   "Sears": {
     "url": "https://www.800-numbers.net/sears/",
-    "nums": {}
+    "nums": {
+      "Sears Stores": "800-549-4505",
+      "Sears.com": "800-697-3277",
+      "Sears Services": "800-295-4809",
+      "Sears PartsDirect": "800-252-1698",
+      "Sears Purchase Protect": "800-573-1088",
+      "Service pros": "800-424-2047"
+    }
   },
   "Sheraton": {
     "url": "https://www.800-numbers.net/sheraton/",
-    "nums": {}
+    "nums": {
+      "Reservations": "800-325-3535"
+    }
   },
   "Sirius XM": {
     "url": "https://www.800-numbers.net/sirius-xm/",
-    "nums": {}
+    "nums": {
+      "Sirius XM Customer Service": "800-745-3000"
+    }
   },
   "Social Security": {
     "url": "https://www.800-numbers.net/social-security/",
-    "nums": {}
+    "nums": {
+      "General Information Automated Telephone Services": "800-772-1213",
+      "Social Security Division of Business Services": "800-772-6270",
+      "TTY/ Hard of Hearing": "800-325-0778",
+      "Electronically File W-2": "800-772-6270",
+      "BSO Technical Assistance": "888-772-2970"
+    }
   },
   "Southern California Edison": {
     "url": "https://www.800-numbers.net/southern-california-edison/",
-    "nums": {}
+    "nums": {
+      "24 Hour Support Line": "800-655-4555",
+      "Outages": "800-611-1911",
+      "Payments": "877-534-2264"
+    }
   },
   "Southwest": {
     "url": "https://www.800-numbers.net/southwest/",
-    "nums": {}
+    "nums": {
+      "Reservations & Information": "800-435-9792",
+      "Customer Relations": "214-932-0333",
+      "Rapid Rewards Customer Service": "800-445-5764",
+      "Automated Flight Information": "888-792-8747",
+      "Reservations & Information – En Español": "800-826-6667",
+      "Baggage – General Questions": "800-435-9792",
+      "Southwest Vacations": "800-243-8372",
+      "Articles Left at TSA Checkpoint": "888-269-9673",
+      "New Hotel Reservations": "800-733-1137",
+      "Teletypewriter (TTY)": "800-533-1305",
+      "Existing Hotel Reservations": "800-545-4489",
+      "Public Relations & Media Relations": "214-792-4847",
+      "Jackpot Deal Packages": "877-308-4216",
+      "Group Reservations": "888-433-5368",
+      "Rewards Pre-travel assistance": "800-833-4861",
+      "Rewards Assistance while traveling": "877-532-5678",
+      "Cargo—Air Freight Service call": "800-533-1222"
+    }
   },
   "Sovereign Bank": {
     "url": "https://www.800-numbers.net/sovereign-bank/",
-    "nums": {}
+    "nums": {
+      "Customer Service Rep": "877-768-2265"
+    }
   },
   "Spirit": {
     "url": "https://www.800-numbers.net/spirit/",
-    "nums": {}
+    "nums": {
+      "Customer Service / Reservations": "801-401-2222",
+      "Customer Service / Reservations Espanol": "801-401-2200",
+      "Customer Service / Reservations Canada": "801-401-2200",
+      "Dominican Republic": "877-906-9026",
+      "Jamaica": "877-211-1546",
+      "Puerto Rico (English)": "801-401-2200",
+      "Puerto Rico (Español)": "801-401-2200",
+      "US Virgin Islands (English)": "801-401-2200",
+      "US Virgin Islands (Español)": "801-401-2200",
+      "Mexico": "877-203-0891",
+      "Panama": "877-233-5370",
+      "Spirit Vacations": "954-698-0125",
+      "Group Travel Desk": "877-663-4841"
+    }
   },
   "Sprint": {
     "url": "https://www.800-numbers.net/sprint/",
-    "nums": {}
+    "nums": {
+      "Current & New Customers / Order Phones": "844-661-2213",
+      "Help & Assistance, Customer Service": "888-211-4727",
+      "Business Wireless": "800-927-2199"
+    }
   },
   "Staples": {
     "url": "https://www.800-numbers.net/staples/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-333-3330"
+    }
   },
   "Statefarm": {
     "url": "https://www.800-numbers.net/statefarm/",
-    "nums": {}
+    "nums": {
+      "Claims": "800-782-8332",
+      "Emergency Road Service": "877-627-5757",
+      "Payments": "800-440-0998",
+      "State Farm Bank Accounts": "877-734-2265",
+      "State Farm Credit Cards": "877-734-8472",
+      "Mutual Funds Accounts": "800-447-4930",
+      "Website Technical Difficulties": "888-559-1922"
+    }
   },
   "Stop Shop": {
     "url": "https://www.800-numbers.net/stop-shop/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-767-7772"
+    }
   },
   "Straight Talk": {
     "url": "https://www.800-numbers.net/straight-talk/",
-    "nums": {}
+    "nums": {
+      "Straight Talk Customer Support": "877-430-2355",
+      "Straight Talk from your Home Phone": "800-299-7784",
+      "Sim Customers": "855-222-2355"
+    }
   },
   "SuddenLink": {
     "url": "https://www.800-numbers.net/suddenlink/",
-    "nums": {}
+    "nums": {
+      "Suddenlink Residential Service": "877-794-2724",
+      "Suddenlink Residential Sales": "877-694-9474"
+    }
   },
   "SunPass": {
     "url": "https://www.800-numbers.net/sunpass/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "888-865-5352"
+    }
   },
   "Suntrust": {
     "url": "https://www.800-numbers.net/suntrust/",
-    "nums": {}
+    "nums": {
+      "Customer Service Representative (check balance)": "800-786-8787",
+      "General Account Questions": "800-382-3232",
+      "Banking Solutions": "800-279-4824",
+      "New Cards": "800-786-8787",
+      "SunTrust Mortgage Customer Service Department": "800-634-7928",
+      "Online Banking, PC Banking, Bill Pay, and Mobile Banking": "800-382-3232",
+      "TDD (Telephone Device for the Deaf)": "800-854-8965",
+      "Lost or Stolen Card": "800-786-8787",
+      "Directory Assistance": "800-786-8787",
+      "New or Existing Mortgages": "800-634-7928",
+      "Loss Mitigation, Bankruptcy Filings, Real-Estate Owned (REO) and Short Sale Inquiries": "800-443-1032",
+      "Credit Bureau Disputes": "877-596-5407"
+    }
   },
   "T-mobile": {
     "url": "https://www.800-numbers.net/t-mobile/",
-    "nums": {}
+    "nums": {
+      "Customer Specialist": "800-866-2453",
+      "Business customers1-888-537-4242": "888-537-4242",
+      "Customer Service1-877-453-1304": "877-453-1304"
+    }
   },
   "TJ Maxx": {
     "url": "https://www.800-numbers.net/t-j-maxx/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-926-6299",
+      "Rewards Credit Card": "800-952-6133",
+      "Rewards Platinum MasterCard": "877-890-3150"
+    }
   },
   "Target": {
     "url": "https://www.800-numbers.net/target/",
-    "nums": {}
+    "nums": {
+      "Target.com online orders, shipping, returns": "800-591-3869",
+      "Target Stores & Products Guest Relations": "800-440-0680"
+    }
   },
   "TD Bank": {
     "url": "https://www.800-numbers.net/td-bank/",
-    "nums": {}
+    "nums": {
+      "Bank by Phone": "800-937-2000",
+      "Customer Service": "888-751-9000",
+      "Loan Servicing": "800-457-2387",
+      "TTD/Hearing Impaired Relay Service": "800-852-7899",
+      "Maine": "800-295-7400",
+      "Massachusetts": "800-747-7000",
+      "New Hampshire": "800-224-5563",
+      "Upstate New York": "800-836-0853",
+      "Rhode Island": "800-747-7000",
+      "Vermont": "800-257-0899",
+      "Merchant Services": "800-348-4025",
+      "Hardship Assistance": "800-222-5522",
+      "TD Bank Headquarters": "800-462-3666"
+    }
   },
   "Thrifty": {
     "url": "https://www.800-numbers.net/thrifty/",
-    "nums": {}
+    "nums": {
+      "Thrifty Reservations & Customer Support": "800-847-4389"
+    }
   },
   "Ticketmaster": {
     "url": "https://www.800-numbers.net/ticketmaster/",
-    "nums": {}
+    "nums": {
+      "Ticketmaster Buy Tickets": "800-745-3000",
+      "Ticketmaster Customer Service": "800-653-8000"
+    }
   },
   "Time-warner": {
     "url": "https://www.800-numbers.net/time-warner/",
-    "nums": {}
+    "nums": {
+      "New Service, Moving, Promotions": "844-668-4880",
+      "Contact TWC": "800-892-4357",
+      "Alabama": "800-292-8525",
+      "Arizona": "800-782-5348",
+      "Arkansas": "800-482-8998",
+      "California North and Central": "800-227-2600",
+      "Southern": "800-227-2600",
+      "Colorado": "800-922-1987",
+      "Hawaii": "866-423-7287",
+      "Idaho": "800-342-1585",
+      "Northern Idaho only Bonner/Boundry": "800-626-4950",
+      "Kootenai County": "800-428-4950",
+      "Shoeshone-Benewah": "800-398-3285",
+      "Illinois": "800-892-0123",
+      "Chicago, also contact Utility Alert Network 1-312-744-7000": "312-744-7000",
+      "Indiana": "800-382-5544",
+      "Kansas": "800-344-7233",
+      "Kentucky": "800-752-6007",
+      "Maine": "888-344-7233",
+      "Massachusetts": "888-344-7233",
+      "Michigan 811 or 1-800-482-7171": "800-482-7171",
+      "Missouri": "800-344-7483",
+      "Nebraska": "800-331-5666",
+      "New Hampshire": "888-344-7233",
+      "New Jersey": "800-272-1000",
+      "New Mexico": "800-321-2537",
+      "New York NY State": "800-962-7962",
+      "5 Boroughs and Long Island": "800-272-4480",
+      "North Carolina": "800-632-4949",
+      "Ohio": "800-362-2764",
+      "Pennsylvania": "800-242-1776",
+      "South Carolina": "888-721-7877",
+      "Tennessee": "800-351-1111",
+      "Texas": "800-344-8377",
+      "Virginia": "800-552-7001",
+      "Washington": "800-424-5555",
+      "West Virginia": "800-245-4848",
+      "Wisconsin": "800-242-8511"
+    }
   },
   "ToysRUs": {
     "url": "https://www.800-numbers.net/toys-r-us/",
-    "nums": {}
+    "nums": {
+      "Toys”R”Us, Inc Customer Service": "800-869-7787",
+      "Babys”R”Us Customer Service": "888-222-9787"
+    }
   },
   "Tracfone": {
     "url": "https://www.800-numbers.net/tracfone/",
-    "nums": {}
+    "nums": {
+      "Tracfone Customer Service": "800-867-7183"
+    }
   },
   "Travelocity": {
     "url": "https://www.800-numbers.net/travelocity/",
-    "nums": {}
+    "nums": {
+      " Customer Service": "888-872-8356"
+    }
   },
   "True Value": {
     "url": "https://www.800-numbers.net/true-value/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "877-502-4641"
+    }
   },
   "Turbotax": {
     "url": "https://www.800-numbers.net/turbotax/",
-    "nums": {}
+    "nums": {
+      " Customer Service": "866-888-2402",
+      " TurboTax Advantage": "800-414-5644"
+    }
   },
   "U Haul": {
     "url": "https://www.800-numbers.net/u-haul/",
-    "nums": {}
+    "nums": {
+      "U Haul Customer Service Rep": "800-789-3638",
+      "Reservations by phone": "800-468-4285",
+      "Emergency road-side service": "800-528-0355",
+      "Report accident or damage": "800-528-7134",
+      "Claims": "800-528-7134",
+      "Abandoned Equipment": "888-886-0782",
+      "Payments": "888-886-0782",
+      "Storage": "877-468-4285",
+      "CollegeBoxes.com": "866-269 4887",
+      "Moving Supplies": "866-277-6855",
+      "Propane": "800-528-0361",
+      "Car Share": "866-323-4591",
+      "Sustainability": "866-963-0286",
+      "Corporate Sales": "800-528-6042",
+      "Careers": "866-870-9850",
+      "Become a U-Haul Dealer": "800-528-0361",
+      "Real Estate": "866-873-1584",
+      "Supply & Purchasing": "800-223-6218",
+      "Corporate Public Relations": "800-528-0361"
+    }
   },
   "U.S. Bank": {
     "url": "https://www.800-numbers.net/us-bank/",
-    "nums": {}
+    "nums": {
+      "U.S. Bank Customer Service (Checking/Savings)": "800-872-2657",
+      "Home Mortgage": "800-365-7772",
+      "Cincinnati Metro": "513-632-4141",
+      "Denver Metro": "303-585-8585",
+      "Milwaukee Metro": "414-765-4636",
+      "Minneapolis/St. Paul Metro": "612-872-2657",
+      "Portland Metro": "503-872-2657",
+      "St. Louis Metro": "314-425-2000",
+      "All Other Locations": "800-872-2657",
+      "International Collect Calls": "503-401-9991"
+    }
   },
   "US Cellular": {
     "url": "https://www.800-numbers.net/us-cellular/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "888-944-9400",
+      "Business": "866-872-4249",
+      "OnLook™ Digital System Customers": "888-558-1878",
+      "Order By Phone": "888-289-8722"
+    }
   },
   "United": {
     "url": "https://www.800-numbers.net/united/",
-    "nums": {}
+    "nums": {
+      "United Reservations assistance": "800-864-8331",
+      "Baggage": "800-335-2247",
+      "Awards & Mileage Plus": "800-864-8331",
+      "Assistance for the hearing impaired (TDD/TTY)": "800-323-0170",
+      "United Airlines Baggage Resolution Service Center": "281-821-3526",
+      "Agency brochures and supplies": "800-521-0810",
+      "Cargo Sales & QuickPak": "800-575-3335",
+      "Executive Accounts Desk": "800-521-0810",
+      "United Groups": "800-426-1122",
+      "United Meetings": "800-521-4041",
+      "MileagePlus Service Center": "800-421-4655",
+      "United Club Service Center": "866-822-5827",
+      "Cantonese": "800-551-0943",
+      "Dutch": "800-225-8612",
+      "French": "800-537-3444",
+      "German": "800-537-2999",
+      "Greek": "800-323-5419",
+      "Hebrew": "800-225-8610",
+      "Italian": "800-537-8885",
+      "Japanese": "800-537-3366",
+      "Korean": "800-825-2136",
+      "Mandarin": "800-551-3062",
+      "Portuguese": "800-323-5359",
+      "Spanish": "800-426-5561",
+      "Turkish": "877-624-2623",
+      "Antigua": "800-579-3958",
+      "Argentina": "011 800-5555",
+      "Australia": "011 800-5555",
+      "Austria": "800-579-3958",
+      "Bahamas": "800-579-3958",
+      "Bahrain": "973 17131288",
+      "Barbados": "800-579-3958",
+      "Belize": "501-822-1062",
+      "Bermuda": "800-579-3958",
+      "Brazil": "800-891-4081",
+      "Cayman Islands": "800-231-0856",
+      "China": "800 152 1232",
+      "Colombia": "800-944-0219",
+      "Costa Rica": "800-044-0005",
+      "Cyprus": "011 800-5555",
+      "Denmark": "800-55558000",
+      "Dominican Republic": "809-262-1060",
+      "El Salvador": "503-207-2040",
+      "Egypt": "800-0000302",
+      "Fiji": "004-890-1001",
+      "France": "800-55558000",
+      "Finland": "999 800-5555",
+      "Germany": "800-55558000",
+      "Guatemala": "502-385-9610",
+      "Honduras": "800-579-3958",
+      "Hong Kong": "001 800-5555",
+      "Hungary": "800-55558000",
+      "India": "800 100 1056",
+      "Ireland": "800-55558000",
+      "Italy": "800-55558000",
+      "Jamaica": "800-579-3958",
+      "Japan": "800-55558000",
+      "Japan Telecom": "800-55558000",
+      "NTT": "800-55558000",
+      "Korea": "011 800-5555",
+      "Luxembourg": "011 800-5555",
+      "Marshall Islands": "800-225-5288",
+      "Malaysia": "011 800-5555",
+      "Mexico": "800-579-3958",
+      "Micronesia": "800-579-3958",
+      "Netherlands Antilles": "800-579-3958",
+      "Netherlands": "800-55558000",
+      "New Zealand": "011 800-5555",
+      "Nicaragua": "505-278-7033",
+      "Northern Mariana Islands": "800-231-0856",
+      "Norway": "800-55558000",
+      "Panama": "507-265-0040",
+      "Peru": "511 712 9230",
+      "Philippines": "800-55558000",
+      "Poland": "800-55558000",
+      "Portugal": "800-55558000",
+      "Russia": "800 206 3104",
+      "Spain": "800-55558000",
+      "Singapore": "011 800-5555",
+      "South Africa": "011 800-5555",
+      "Switzerland": "800-55558000",
+      "Thailand": "011 800-5555",
+      "Trinidad and Tobago": "800-579-3958",
+      "Turks & Caicos": "800-579-3958",
+      "United Arab Emirates": "000 441 5492",
+      "United Kingdom": "800-028-5003",
+      "Venezuela": "800-100-3198"
+    }
   },
   "UPS": {
     "url": "https://www.800-numbers.net/ups/",
-    "nums": {}
+    "nums": {
+      "U.S. & Canada Customer Service": "800-742-5877",
+      "International Import & Export": "800-782-7892"
+    }
   },
   "US Airways": {
     "url": "https://www.800-numbers.net/us-airways/",
-    "nums": {}
+    "nums": {
+      "US Airways Reservations, arrivals & departure information": "800-433-7300",
+      "US Airways Internet Support": "800-327-7810"
+    }
   },
   "USAA": {
     "url": "https://www.800-numbers.net/usaa/",
-    "nums": {}
+    "nums": {
+      " USAA Customer Service": "800-531-8722",
+      "Website Technical Support": "877-632-3002",
+      "Financial Planning": "877-314-2255",
+      "Roadside Assistance": "800-531-8555"
+    }
   },
   "Usps": {
     "url": "https://www.800-numbers.net/usps/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-275-8777",
+      "Track and Confirm’s customer service": "800-222-1811",
+      "Facilities Access and Shipment Tracking (FAST) ": "877-569-6614"
+    }
   },
   "Verizon": {
     "url": "https://www.800-numbers.net/verizon/",
-    "nums": {}
+    "nums": {
+      "Verizon Customer Service": "800-922-0204"
+    }
   },
   "Virgin Mobile": {
     "url": "https://www.800-numbers.net/virgin-mobile/",
-    "nums": {}
+    "nums": {
+      "Virgin Mobile Customer Service / Support": "888-322-1122"
+    }
   },
   "Visa": {
     "url": "https://www.800-numbers.net/visa/",
@@ -1707,51 +2414,97 @@
   },
   "Vonage": {
     "url": "https://www.800-numbers.net/vonage/",
-    "nums": {}
+    "nums": {
+      "Vonage Customer Support Service": "800-608-5590",
+      "Vonage Technical Support Service": "866-243-4357"
+    }
   },
   "W Hotels": {
     "url": "https://www.800-numbers.net/w-hotels/",
-    "nums": {}
+    "nums": {
+      "Reservations": "877-424-6423"
+    }
   },
   "Walgreens": {
     "url": "https://www.800-numbers.net/walgreens/",
-    "nums": {}
+    "nums": {
+      "Walgreens Customer Service Line": "800-925-4733",
+      "Walgreens.com": "877-250-5823"
+    }
   },
   "Walmart": {
     "url": "https://www.800-numbers.net/walmart/",
-    "nums": {}
+    "nums": {
+      "Walmart Credit Services": "877-294-7880",
+      "Walmart Community/Business Card": "877-294-1086",
+      "Walmart Gift Cards": "888-537-5503",
+      "Walmart Prescriptions 1-800-2-REFILL (1-800-273-3455)": "800-273-3455"
+    }
   },
   "Webster": {
     "url": "https://www.800-numbers.net/webster/",
-    "nums": {}
+    "nums": {
+      "Webster Customer Service / Support": "800-995-9995"
+    }
   },
   "Weight Watchers": {
     "url": "https://www.800-numbers.net/weight-watchers/",
-    "nums": {}
+    "nums": {
+      "Weight Watchers Customer Service": "800-651-6000"
+    }
   },
   "Wells Fargo": {
     "url": "https://www.800-numbers.net/wells-fargo/",
-    "nums": {}
+    "nums": {
+      "General Questions": "800-869-3557",
+      "Online Banking and Bill Pay Service": "800-956-4442",
+      "Open Bank Account": "866-245-3452",
+      "Report lost or stolen credit card": "800-642-4720",
+      "Report lost or stolen Debit/ATM card or checks": "800-869-3557",
+      "Report Identity Theft": "800-869-3557",
+      "Hearing Impaired Customers TDD/TTY": "800-877-4833",
+      "Report other suspicious online activity": "866-867-5568"
+    }
   },
   "Western Union": {
     "url": "https://www.800-numbers.net/western-union/",
-    "nums": {}
+    "nums": {
+      "Western Union US Customer Service, Find an Agent": "800-325-6000",
+      "Western Union Money Order": "800-999-9660",
+      "Quick Collect Customer Care": "800-238-5772",
+      "Western Union Gold Card Phone Support Provider": "888-628-8862",
+      "Western Union PrePaid": "877-256-6918"
+    }
   },
   "WestJet": {
     "url": "https://www.800-numbers.net/westjet/",
-    "nums": {}
+    "nums": {
+      "Customer Service, Book Flights": "888-937-8538",
+      "Baggage, Lost & Found": "866-666-6224",
+      "Cargo": "866-952-2746"
+    }
   },
   "Whole Foods": {
     "url": "https://www.800-numbers.net/whole-foods/",
-    "nums": {}
+    "nums": {
+      "Whole Foods Customer Service Line": "512-542-0878",
+      "Allegro Coffee": "800-666-4869"
+    }
   },
   "XBox Live": {
     "url": "https://www.800-numbers.net/xbox-live/",
-    "nums": {}
+    "nums": {
+      "XBox Live Customer Service": "800-469-9269",
+      "Games for Windows LIVE Support": "877-274-4349"
+    }
   },
   "XCel Energy": {
     "url": "https://www.800-numbers.net/xcel-energy/",
-    "nums": {}
+    "nums": {
+      "Customer Service": "800-895-4999",
+      "Emergency & Power Outage": "800-895-1999",
+      "Outdoor Lighting Outages": "800-960-6235"
+    }
   },
   "Yahoo": {
     "url": "https://www.800-numbers.net/yahoo/",
