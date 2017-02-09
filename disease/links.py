@@ -3,7 +3,6 @@ import urllib
 import time
 import random
 from string import ascii_uppercase
-# from textblob import TextBlob
 
 
 def get_links(letter):
@@ -38,40 +37,7 @@ def get_links(letter):
         #     normal_links.append(link['href'])
 
 
-def get_description(path):
-    url = 'https://en.wikipedia.org' + path
-    html = urllib.urlopen(url).read()
-    soup = bs4.BeautifulSoup(html, "html.parser")
-
-    try:
-        name = soup.select('#firstHeading')[0].text
-        print name.encode('utf-8')
-        print ''
-
-        desc = soup.select('p')[0].text
-        print desc.encode('utf-8')
-        print ''
-    except IndexError as e:
-        print url
-        print e
-        print ''
-
-normal_links = []
-# redirect_links = []
-# new_links = []
-
-
 for letter in ascii_uppercase:
 # for letter in ['A']:
     get_links(letter)
     time.sleep(random.uniform(.1, .2))
-
-
-# print normal_links
-# print redirect_links
-# print new_links
-
-
-# for link in normal_links:
-#     get_description(link)
-#     time.sleep(random.uniform(.1, .2))
