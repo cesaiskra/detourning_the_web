@@ -22,7 +22,6 @@ def diagnose():
         time.sleep(2)
         driver.switch_to_window(driver.window_handles[1])
 
-
         options = driver.find_elements_by_css_selector('.form li')
         for j in range(0, len(options)):
             print 'factor ' + str(j) + ' / ' + str(len(options))
