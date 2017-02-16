@@ -1,0 +1,820 @@
+{
+    "abdominal pain": {
+        "accompanied by": {
+            "unintended weight loss": [
+                "celiac disease", 
+                "colon cancer", 
+                "crohn's disease", 
+                "gastritis", 
+                "pancreatitis", 
+                "peptic ulcer", 
+                "ulcerative colitis"
+            ]
+        }, 
+        "pain is": {
+            "steady": [
+                "appendicitis", 
+                "cholecystitis", 
+                "diverticulitis", 
+                "gallstones", 
+                "gastritis", 
+                "intestinal obstruction", 
+                "irritable bowel syndrome", 
+                "pancreatitis", 
+                "shingles"
+            ]
+        }, 
+        "pain located in": {
+            "upper abdomen": [
+                "cholecystitis", 
+                "gallstones", 
+                "gastritis", 
+                "nonulcer stomach pain", 
+                "pancreatitis"
+            ]
+        }, 
+        "relieved by": {
+            "eating more fiber": [
+                "constipation"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "stress": [
+                "irritable bowel syndrome", 
+                "nonulcer stomach pain", 
+                "peptic ulcer"
+            ]
+        }
+    }, 
+    "blood in stool": {
+        "accompanied by": {
+            "unintended weight loss": [
+                "colon cancer", 
+                "crohn's disease", 
+                "ulcerative colitis"
+            ]
+        }, 
+        "blood appears": {
+            "in toilet bowl or on toilet tissue": [
+                "anal fissure", 
+                "colon polyps", 
+                "crohn's disease", 
+                "diverticulitis", 
+                "hemorrhoids", 
+                "proctitis", 
+                "ulcerative colitis"
+            ]
+        }, 
+        "relieved by": {
+            "eating more fiber": [
+                "constipation"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "straining during bowel movements": [
+                "anal fissure", 
+                "hemorrhoids"
+            ]
+        }
+    }, 
+    "chest pain": {
+        "accompanied by": {
+            "wheezing": [
+                "asthma"
+            ]
+        }, 
+        "pain best described as": {
+            "tight": [
+                "angina", 
+                "esophageal spasms", 
+                "gerd"
+            ]
+        }, 
+        "problem is": {
+            "preceded by respiratory illness": [
+                "asthma"
+            ]
+        }, 
+        "relieved by": {
+            "rest": [
+                "angina"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "taking a deep breath": [
+                "costochondritis", 
+                "pericarditis", 
+                "pleurisy", 
+                "pulmonary embolism"
+            ]
+        }
+    }, 
+    "constipation": {
+        "accompanied by": {
+            "unintended weight loss": [
+                "colon cancer"
+            ]
+        }, 
+        "problem is": {
+            "worsening or progressing": [
+                "colon cancer", 
+                "hypothyroidism (underactive thyroid)", 
+                "irritable bowel syndrome"
+            ]
+        }
+    }, 
+    "cough": {
+        "accompanied by": {
+            "wheezing": [
+                "asthma", 
+                "bronchitis", 
+                "emphysema", 
+                "gerd"
+            ]
+        }, 
+        "cough is": {
+            "producing phlegm or sputum": [
+                "acute sinusitis", 
+                "bronchitis", 
+                "chronic sinusitis", 
+                "pneumonia"
+            ]
+        }, 
+        "problem is": {
+            "worsening or progressing": [
+                "bronchitis", 
+                "pneumonia"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "allergens or irritants": [
+                "asthma", 
+                "hay fever"
+            ]
+        }
+    }, 
+    "diarrhea": {
+        "accompanied by": {
+            "urgency to have a bowel movement": [
+                "ischemic colitis", 
+                "pseudomembranous colitis", 
+                "ulcerative colitis"
+            ]
+        }, 
+        "problem is": {
+            "sudden (hours to days)": [
+                "food poisoning", 
+                "giardia infection (giardiasis)", 
+                "intestinal obstruction", 
+                "ischemic colitis", 
+                "viral gastroenteritis (stomach flu)"
+            ]
+        }, 
+        "relieved by": {
+            "avoiding certain foods": [
+                "celiac disease", 
+                "lactose intolerance"
+            ]
+        }, 
+        "triggered by": {
+            "eating certain foods": [
+                "celiac disease", 
+                "irritable bowel syndrome", 
+                "lactose intolerance"
+            ]
+        }
+    }, 
+    "difficulty swallowing": {
+        "accompanied by": {
+            "unintended weight loss": [
+                "esophageal cancer", 
+                "throat cancer"
+            ]
+        }, 
+        "swallowing": {
+            "takes effort": [
+                "dry mouth", 
+                "esophageal cancer", 
+                "esophageal spasms", 
+                "gerd", 
+                "mouth cancer", 
+                "throat cancer"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "eating certain foods": [
+                "gerd"
+            ]
+        }
+    }, 
+    "dizziness": {
+        "accompanied by": {
+            "sweating": [
+                "heart attack", 
+                "panic attacks and panic disorder"
+            ]
+        }, 
+        "symptoms are": {
+            "worsening or progressing": []
+        }, 
+        "triggered or worsened by": {
+            "a change in head or body position": [
+                "benign paroxysmal positional vertigo (bppv)", 
+                "orthostatic hypotension (postural hypotension)"
+            ]
+        }, 
+        "you feel": {
+            "unsteady": [
+                "benign paroxysmal positional vertigo (bppv)", 
+                "meniere's disease", 
+                "stroke", 
+                "transient ischemic attack (tia)"
+            ]
+        }
+    }, 
+    "eye discomfort and redness": {
+        "accompanied by": {
+            "runny or stuffy nose": [
+                "hay fever"
+            ]
+        }, 
+        "appearance of eye includes": {
+            "swelling around the eye": [
+                "blepharitis", 
+                "hay fever", 
+                "keratitis", 
+                "pink eye (conjunctivitis)", 
+                "sty", 
+                "uveitis"
+            ]
+        }, 
+        "eye discomfort best described as": {
+            "stinging or burning sensation": [
+                "blepharitis", 
+                "corneal abrasion (scratch): first aid", 
+                "dry eyes", 
+                "keratitis"
+            ]
+        }, 
+        "triggered by": {
+            "injury or trauma": [
+                "corneal abrasion (scratch): first aid"
+            ]
+        }, 
+        "vision problem includes": {
+            "vision loss": [
+                "uveitis"
+            ]
+        }, 
+        "worsened by": {
+            "eye movement": [
+                "corneal abrasion (scratch): first aid"
+            ]
+        }
+    }, 
+    "foot pain or ankle pain": {
+        "accompanied by": {
+            "weakness": [
+                "peripheral neuropathy"
+            ]
+        }, 
+        "located in": {
+            "whole foot": [
+                "broken ankle/broken foot", 
+                "bruise: first aid", 
+                "gout", 
+                "osteoarthritis", 
+                "peripheral neuropathy", 
+                "rheumatoid arthritis", 
+                "sprains and strains", 
+                "stress fractures"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "long periods of rest": [
+                "achilles tendinitis", 
+                "gout", 
+                "osteoarthritis", 
+                "plantar fasciitis", 
+                "rheumatoid arthritis"
+            ]
+        }
+    }, 
+    "foot swelling or leg swelling": {
+        "accompanied by": {
+            "swelling in abdomen or other parts of body": [
+                "baker's cyst", 
+                "heart failure"
+            ]
+        }, 
+        "pain best described as": {
+            "gradually worsening": [
+                "baker's cyst"
+            ]
+        }, 
+        "preceded by": {
+            "sitting or standing still for long periods": [
+                "deep vein thrombosis (dvt)", 
+                "thrombophlebitis", 
+                "varicose veins"
+            ]
+        }, 
+        "relieved by": {
+            "walking": [
+                "varicose veins"
+            ]
+        }, 
+        "swelling occurs": {
+            "in one limb": [
+                "achilles tendinitis", 
+                "cellulitis", 
+                "deep vein thrombosis (dvt)", 
+                "gout", 
+                "knee bursitis", 
+                "lymphedema", 
+                "osteoarthritis", 
+                "pseudogout", 
+                "sprains and strains", 
+                "thrombophlebitis", 
+                "varicose veins"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "movement": [
+                "baker's cyst"
+            ]
+        }
+    }, 
+    "headaches": {
+        "accompanied by": {
+            "vision problems": [
+                "encephalitis", 
+                "giant cell arteritis"
+            ]
+        }, 
+        "duration of headache is": {
+            "a few minutes to hours": [
+                "cluster headache"
+            ]
+        }, 
+        "onset is": {
+            "sudden": [
+                "cluster headache", 
+                "migraine"
+            ]
+        }, 
+        "pain is": {
+            "throbbing": [
+                "giant cell arteritis", 
+                "migraine"
+            ]
+        }, 
+        "pain located": {
+            "on one side of your head": [
+                "giant cell arteritis", 
+                "migraine", 
+                "tmj disorders"
+            ]
+        }, 
+        "recurrence of headache": {
+            "is often the same time every day": [
+                "cluster headache"
+            ]
+        }, 
+        "relieved by": {
+            "rest": [
+                "encephalitis", 
+                "meningitis", 
+                "migraine"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "stress": [
+                "migraine", 
+                "tension headache"
+            ]
+        }
+    }, 
+    "heart palpitations": {
+        "accompanied by": {
+            "unexplained fatigue or weakness": [
+                "anemia", 
+                "hyperthyroidism (overactive thyroid)"
+            ]
+        }, 
+        "heart rate is": {
+            "slower than normal": [
+                "heart arrhythmia"
+            ]
+        }, 
+        "palpitations often occur when": {
+            "you're resting or going to bed": [
+                "premature ventricular contractions (pvcs)"
+            ]
+        }, 
+        "preceded by use of": {
+            "medications or herbal supplements": [
+                "atrial fibrillation", 
+                "heart arrhythmia", 
+                "premature ventricular contractions (pvcs)"
+            ]
+        }
+    }, 
+    "hip pain": {
+        "accompanied by": {
+            "swelling": [
+                "bursitis", 
+                "osteoarthritis"
+            ]
+        }, 
+        "pain is": {
+            "sudden and intense": [
+                "hip labral tear"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "movement": [
+                "bursitis", 
+                "tendinitis"
+            ]
+        }
+    }, 
+    "knee pain": {
+        "accompanied by": {
+            "warmth to touch": [
+                "knee bursitis"
+            ]
+        }, 
+        "located": {
+            "in the knee joint": [
+                "acl injury", 
+                "osteoarthritis", 
+                "sprains and strains"
+            ]
+        }, 
+        "pain best described as": {
+            "sudden": [
+                "acl injury", 
+                "sprains and strains", 
+                "torn meniscus"
+            ]
+        }, 
+        "triggered by": {
+            "overuse": [
+                "baker's cyst", 
+                "knee bursitis", 
+                "osteoarthritis", 
+                "patellar tendinitis", 
+                "patellofemoral pain syndrome", 
+                "sprains and strains"
+            ]
+        }, 
+        "worsened by": {
+            "rest or inactivity": [
+                "osteoarthritis", 
+                "patellofemoral pain syndrome"
+            ]
+        }
+    }, 
+    "low back pain": {
+        "accompanied by": {
+            "weakness, numbness or tingling in leg or foot": [
+                "herniated disk", 
+                "spinal stenosis", 
+                "sprains and strains"
+            ]
+        }, 
+        "pain": {
+            "gradually worsens over time": [
+                "myofascial pain syndrome", 
+                "osteoarthritis", 
+                "spinal stenosis"
+            ]
+        }, 
+        "relieved by": {
+            "bending over or leaning on something for support": [
+                "spinal stenosis"
+            ]
+        }, 
+        "triggered by": {
+            "overuse": [
+                "herniated disk", 
+                "myofascial pain syndrome", 
+                "osteoarthritis", 
+                "spinal stenosis", 
+                "sprains and strains"
+            ]
+        }, 
+        "worsened by": {
+            "prolonged sitting or standing": [
+                "herniated disk", 
+                "osteoarthritis", 
+                "spinal stenosis"
+            ]
+        }
+    }, 
+    "nasal congestion": {
+        "accompanied by": {
+            "watery eyes": [
+                "hay fever"
+            ]
+        }, 
+        "nasal congestion is": {
+            "ongoing or persistent": [
+                "chronic sinusitis", 
+                "deviated septum", 
+                "hay fever", 
+                "nasal polyps", 
+                "nonallergic rhinitis"
+            ]
+        }, 
+        "nasal discharge is": {
+            "yellow or greenish": [
+                "acute sinusitis", 
+                "chronic sinusitis"
+            ]
+        }
+    }, 
+    "nausea or vomiting": {
+        "accompanied by": {
+            "unintended weight loss": [
+                "chronic kidney disease", 
+                "gastritis", 
+                "gastroparesis", 
+                "peptic ulcer"
+            ]
+        }, 
+        "onset is": {
+            "sudden (minutes to hours)": [
+                "appendicitis", 
+                "food poisoning", 
+                "heart attack", 
+                "migraine", 
+                "motion sickness: first aid", 
+                "panic attacks and panic disorder"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "travel or motion": [
+                "motion sickness: first aid"
+            ]
+        }
+    }, 
+    "neck pain": {
+        "accompanied by": {
+            "shoulder, arm or chest pain": [
+                "cervical spondylosis", 
+                "herniated disk", 
+                "spinal stenosis"
+            ]
+        }, 
+        "pain started": {
+            "suddenly": [
+                "herniated disk", 
+                "sprains and strains", 
+                "tension headache"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "stress": [
+                "tension headache"
+            ]
+        }
+    }, 
+    "numbness or tingling in hands": {
+        "accompanied by": {
+            "numbness, tingling or weakness in legs or feet": [
+                "peripheral neuropathy"
+            ]
+        }, 
+        "numbness or tingling": {
+            "wakes you up at night": [
+                "carpal tunnel syndrome"
+            ]
+        }, 
+        "relieved by": {
+            "rest": [
+                "carpal tunnel syndrome", 
+                "pinched nerve"
+            ]
+        }, 
+        "triggered by": {
+            "repetitive use": [
+                "carpal tunnel syndrome"
+            ]
+        }
+    }, 
+    "pelvic pain: female": {
+        "accompanied by": {
+            "weight gain": [
+                "premenstrual syndrome (pms)"
+            ]
+        }, 
+        "pain best described as": {
+            "sharp or crampy": [
+                "appendicitis", 
+                "chronic pelvic pain in women", 
+                "crohn's disease", 
+                "ectopic pregnancy", 
+                "endometriosis", 
+                "menstrual cramps", 
+                "mittelschmerz", 
+                "pelvic inflammatory disease (pid)", 
+                "premenstrual syndrome (pms)", 
+                "ulcerative colitis", 
+                "uterine fibroids"
+            ]
+        }, 
+        "worsened by": {
+            "stress": [
+                "chronic pelvic pain in women", 
+                "genital herpes"
+            ]
+        }
+    }, 
+    "pelvic pain: male": {
+        "accompanied by": {
+            "pus-filled discharge from penis": [
+                "gonorrhea", 
+                "orchitis", 
+                "urinary tract infection (uti)"
+            ]
+        }, 
+        "pain best described as": {
+            "testicle pain": [
+                "epididymitis", 
+                "orchitis", 
+                "prostatitis", 
+                "testicular torsion"
+            ]
+        }
+    }, 
+    "shortness of breath": {
+        "accompanied by": {
+            "wheezing": [
+                "asthma", 
+                "bronchitis", 
+                "emphysema", 
+                "heart failure", 
+                "interstitial lung disease", 
+                "pulmonary embolism"
+            ]
+        }, 
+        "preceded by": {
+            "upper respiratory illness": [
+                "asthma", 
+                "bronchitis", 
+                "pleurisy", 
+                "pneumonia", 
+                "pneumothorax"
+            ]
+        }, 
+        "problem is": {
+            "ongoing or recurrent": [
+                "anemia", 
+                "asthma", 
+                "bronchitis", 
+                "coronary artery disease", 
+                "emphysema", 
+                "heart failure", 
+                "interstitial lung disease", 
+                "panic attacks and panic disorder", 
+                "pleurisy", 
+                "pulmonary hypertension"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "smoking": [
+                "asthma", 
+                "bronchitis", 
+                "emphysema"
+            ]
+        }
+    }, 
+    "shoulder pain": {
+        "accompanied by": {
+            "visible deformity": [
+                "dislocated shoulder"
+            ]
+        }, 
+        "onset is": {
+            "sudden": [
+                "bursitis", 
+                "dislocated shoulder"
+            ]
+        }, 
+        "pain is": {
+            "sharp or severe": [
+                "dislocated shoulder", 
+                "osteoarthritis", 
+                "rotator cuff injury"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "rest or inactivity": [
+                "osteoarthritis"
+            ]
+        }
+    }, 
+    "sore throat": {
+        "accompanied by": {
+            "yellow or greenish phlegm or discharge from your nose": [
+                "acute sinusitis"
+            ]
+        }
+    }, 
+    "urinary problems": {
+        "accompanied by": {
+            "vaginal odor": [
+                "vaginitis"
+            ]
+        }, 
+        "problem is": {
+            "strong, persistent urge to urinate": [
+                "interstitial cystitis", 
+                "kidney infection", 
+                "overactive bladder", 
+                "benign prostatic hyperplasia (bph)", 
+                "prostatitis", 
+                "urinary incontinence", 
+                "urinary tract infection (uti)"
+            ]
+        }, 
+        "related pain involves": {
+            "painful sexual intercourse": [
+                "genital herpes", 
+                "interstitial cystitis", 
+                "vaginitis"
+            ]
+        }, 
+        "worsened by": {
+            "stress": [
+                "genital herpes", 
+                "interstitial cystitis"
+            ]
+        }
+    }, 
+    "vision problems": {
+        "accompanied by": {
+            "swelling around the eye": [
+                "uveitis"
+            ]
+        }, 
+        "duration is": {
+            "usually no longer than 30 minutes": [
+                "migraine with aura"
+            ]
+        }, 
+        "onset is": {
+            "sudden (seconds to minutes)": [
+                "migraine with aura", 
+                "retinal detachment", 
+                "stroke", 
+                "transient ischemic attack (tia)"
+            ]
+        }, 
+        "problem affects": {
+            "one eye": [
+                "lazy eye (amblyopia)", 
+                "optic neuritis", 
+                "retinal detachment", 
+                "transient ischemic attack (tia)"
+            ]
+        }, 
+        "problem is": {
+            "vision loss, partial or total": []
+        }, 
+        "vision improves somewhat with": {
+            "use of bright lighting": [
+                "dry macular degeneration"
+            ]
+        }
+    }, 
+    "wheezing": {
+        "accompanied by": {
+            "sore throat": [
+                "epiglottitis"
+            ]
+        }, 
+        "preceded by": {
+            "upper respiratory illness": [
+                "asthma", 
+                "bronchitis"
+            ]
+        }, 
+        "triggered or worsened by": {
+            "smoking": [
+                "asthma", 
+                "bronchitis", 
+                "emphysema"
+            ]
+        }, 
+        "wheezing is": {
+            "ongoing or recurrent": [
+                "asthma", 
+                "bronchitis", 
+                "emphysema"
+            ]
+        }
+    }
+}
