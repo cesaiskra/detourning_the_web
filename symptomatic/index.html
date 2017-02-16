@@ -1,0 +1,34 @@
+<html>
+<head>
+  <title>What do you have?</title>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id='main' style='display: table-row;'>
+    <div id='checkboxes' style="width: 500px; display: table-cell;"></div>
+    <div id='diagnoses' style="display: table-cell;">
+      <div id='definitely-div' style='display: none'>
+        <label>You definitely have:</label>
+        <ul id='definitely-ul'></ul>
+      </div>
+      <div id='probably-div' style='display: none'>
+        <label>You probably have:</label>
+        <ul id='probably-ul'></ul>
+      </div>
+      <div id='might-div' style='display: none'>
+        <label>You might have:</label>
+        <ul id='might-ul'></ul>
+      </div>
+      <div id='could-div'>
+        <label>You could have:</label>
+        <ul id='could-ul'></ul>
+      </div>
+    </div>
+  </div>
+</body>
+<script src='symptoms_json.js'></script>
+<script src='asymptomatics.js'></script>
+<script src='index.js'></script>
+</html>
