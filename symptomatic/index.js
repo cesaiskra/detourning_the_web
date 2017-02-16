@@ -74,11 +74,19 @@ $('.cbox').click(function (){
     }
   }
 
+  var still = false;
   for (var j = 0; j < divs.length; j++){
     if (lists[j].children.length > 0){
+      still = true;
       divs[j].removeAttribute('style');
     } else {
       divs[j].style.display = 'none';
     }
+  }
+
+  if (still){
+    document.getElementById('could-h3').innerHTML = 'You could still have:';
+  } else {
+    document.getElementById('could-h3').innerHTML = 'You could have:';
   }
 });

@@ -1,28 +1,49 @@
 <html>
 <head>
-  <title>What do you have?</title>
+  <title>What's your problem?</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <script src="https://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
+  <style>
+    #definitely-ul{
+      color: red;
+      font-size: 24px;
+    }
+    #probably-ul{
+      color: orange;
+      font-size: 16px;
+    }
+    #might-ul{
+      color: blue;
+      font-size: 12px;
+    }
+    #could-ul{
+      color: gray;
+      font-size: 8px;
+    }
+  </style>
 </head>
 <body>
   <div id='main' style='display: table-row;'>
-    <div id='checkboxes' style="width: 500px; display: table-cell;"></div>
+    <div id='checkboxes' style="width: 500px; display: table-cell;">
+      <h3>You experience:</h3>
+    </div>
     <div id='diagnoses' style="display: table-cell;">
       <div id='definitely-div' style='display: none'>
-        <label>You definitely have:</label>
+        <h3>You definitely have:</h3>
         <ul id='definitely-ul'></ul>
       </div>
       <div id='probably-div' style='display: none'>
-        <label>You probably have:</label>
+        <h3>You probably have:</h3>
         <ul id='probably-ul'></ul>
       </div>
       <div id='might-div' style='display: none'>
-        <label>You might have:</label>
+        <h3>You might have:</h3>
         <ul id='might-ul'></ul>
       </div>
       <div id='could-div'>
-        <label>You could have:</label>
+        <h3 id='could-h3'>You could have:</h3>
         <ul id='could-ul'></ul>
       </div>
     </div>
