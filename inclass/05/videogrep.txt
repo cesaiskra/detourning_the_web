@@ -1,0 +1,26 @@
+tinyurl.com/vid-examples
+
+youtube-dl
+
+
+pattern 
+  natural language processing module
+  http://www.clips.ua.ac.be/pattern
+
+
+videogrep
+  
+  --input example.mp4
+  --output output.mp4/.edl
+
+  --transcribe
+
+  --search 'milk'
+
+  parts of speech
+    --search-type pos
+    --search VBG
+
+  type of
+    --search-type hyper
+    --search 'liquid'
