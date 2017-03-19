@@ -11,3 +11,4 @@ clean_string = ' '.join(deduped)
 
 f = open('poop_thesaurus_clean.txt', 'w')
 f.write(clean_string)
+f.close()
