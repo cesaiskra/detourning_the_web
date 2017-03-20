@@ -89,7 +89,7 @@ def get_poo_pic(info):
 
     suffix = 2
     s = filename.split('.')
-    while filename in data['dump'] and data['dump'][filename]['title'] != info['title']:
+    while filename in data['dump']:
         filename = ''.join(s[0:-1]) + '-' + str(suffix) + '.' + s[-1]
         suffix += 1
 
