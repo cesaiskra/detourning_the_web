@@ -70,7 +70,7 @@ def update_searched(q):
 
 
 def add_unsearched(title):
-    title_set = set(title.encode('utf-8').translate(None, string.punctuation).split(' '))
+    title_set = set(title.lower().encode('utf-8').translate(None, string.punctuation).split(' '))
     searched = set(data['searched'])
 
     new_set = title_set.difference(searched)
@@ -107,24 +107,54 @@ def get_poo_pic(info):
 
 def get_poo_info(content):
     text = content.text.strip()
-    lines = re.split(': |\n', text)
-    title = lines[1].lower()
+    lines = re.split('\n', text)
+    title = ':'.join(lines[0].split(':')[1:]).strip()
+    vr = lines[1].split(' ')
+    votes = vr[1]
+    rating = vr[3]
+    uploaded = lines[3].split(' ')[1]
+
     img = content.findNext('img')
     src = img.get('src').replace('/t/', '/b/')
     filename = src.split('/')[-1]
 
-    print lines[0]
+    # print lines[0]
 
-    if filename in data['dump'] and data['dump'][filename]['src'] == src:
+    result_num = int(lines[0].split(' ')[0].replace('#', ''))
+    if result_num % 10 == 0:
+        print lines[0] + '\n'
+
+    if filename in data['dump'] and data['dump'][filename]['votes'] == 'Votes':
+        print 'title:', title
+        print 'votes:', votes
+        print 'rating:', rating
+        print 'uploaded:', uploaded
+        print ''
+
+        info = {
+            # 'index': lines[0].split(' ')[0].replace('#', ''),
+            'title': title,
+            'votes': votes,
+            'rating': rating,
+            # 'matches': lines[6],
+            'uploaded': uploaded,
+            'src': src
+        }
+
+        data['dump'][filename] = info
+        add_unsearched(title)
+        return False
+
+    elif filename in data['dump'] and data['dump'][filename]['src'] == src:
         return None
 
     info = {
         # 'index': lines[0].split(' ')[0].replace('#', ''),
         'title': title,
-        'votes': lines[3].split(' ')[0],
-        'rating': lines[4],
+        'votes': votes,
+        'rating': rating,
         # 'matches': lines[6],
-        'uploaded': lines[-1],
+        'uploaded': uploaded,
         'src': src
     }
 
@@ -133,8 +163,9 @@ def get_poo_info(content):
     return info
 
 
+count = 0
 def scrape(q, page_start=0, page_stop=0):
-
+    count = 0
     update_searched(q)
 
     url = 'http://www.ratemypoo.com/xyzzy/search'
@@ -156,16 +187,21 @@ def scrape(q, page_start=0, page_stop=0):
             # scrape poo
             info = get_poo_info(content)
             if not info:
+                if info is False:
+                    writeJSON()
+                    count += 1
                 continue
             elif poo_dir:
                 get_poo_pic(info)
 
+            count += 1
             # print results
             pprint(info)
             print ''
             time.sleep(0.2)
 
-    writeJSON()
+    if count > 0:
+        writeJSON()
 
     # next page?
     next_to_last_link = soup.select('a')[-2]
