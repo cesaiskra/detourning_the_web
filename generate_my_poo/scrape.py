@@ -116,7 +116,7 @@ def get_poo_info(content):
     if result_num % 10 == 0:
         print split_0[0] + '\n'
 
-    if filename in data['dump'] and data['dump'][filename]['src'] == src:
+    if filename in data['dump'] and data['dump'][filename]['src'] == src or filename == '973b15b90a05b0da4da7db8da04517bd.jpg':
         return None
 
     info = {
