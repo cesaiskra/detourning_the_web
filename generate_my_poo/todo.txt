@@ -1,0 +1,11 @@
+redo searches with unencoded characters and without stripping punctuation
+  chunk unsearched and start next q automatically
+  moved unsearched to before skip
+
+update title_tp.json
+
+
+move unsearched to before skip
+strip all splits
+
+log errors w/ query + result index
