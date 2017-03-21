@@ -41,7 +41,7 @@ def writeJSON():
     with open(jsonfile, 'w') as f:
         json.dump(data, f)
 
-    print 'wrote data to ' + jsonfile
+    print 'wrote data to ' + jsonfile + '\n'
 
 
 def download(url, path):
@@ -86,21 +86,23 @@ def add_unsearched(title):
 def get_poo_pic(info):
     src = info['src']
     filename = src.split('/')[-1]
-
-    suffix = 2
-    s = filename.split('.')
-    while filename in data['dump']:
-        filename = ''.join(s[0:-1]) + '-' + str(suffix) + '.' + s[-1]
-        suffix += 1
-
     filepath = poo_dir + filename
-    info['path'] = filepath
 
-    if not os.path.exists(filepath):
-        download(info['src'], filepath)
-        print 'downloaded ' + filepath
-    else:
-        print 'file already exists'
+    # if not os.path.exists(filepath):
+        # download(info['src'], filepath)
+        # print 'downloaded ' + filepath
+    # else:
+    if os.path.exists(filepath):
+        suffix = 2
+        s = filename.split('.')
+        while filename in data['dump']:
+            filename = ''.join(s[0:-1]) + '-' + str(suffix) + '.' + s[-1]
+            suffix += 1
+
+    info['path'] = filepath
+    download(info['src'], filepath)
+    print 'downloaded ' + filepath
+    return filepath
 
 
 def get_poo_info(content):
@@ -112,6 +114,9 @@ def get_poo_info(content):
     filename = src.split('/')[-1]
 
     print lines[0]
+
+    if filename in data['dump'] and data['dump'][filename]['src'] == src:
+        return None
 
     info = {
         # 'index': lines[0].split(' ')[0].replace('#', ''),
@@ -150,7 +155,9 @@ def scrape(q, page_start=0, page_stop=0):
 
             # scrape poo
             info = get_poo_info(content)
-            if poo_dir:
+            if not info:
+                continue
+            elif poo_dir:
                 get_poo_pic(info)
 
             # print results
