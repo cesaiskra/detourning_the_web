@@ -5,7 +5,6 @@ import re
 import json
 import os.path
 import sys
-from pprint import pprint
 
 
 def loadJSON(filename):
@@ -13,7 +12,6 @@ def loadJSON(filename):
         with open(filename) as d:
             data = json.load(d)
 
-        # pprint(data)
         print filename + ' loaded\n'
 
     except:
@@ -31,7 +29,7 @@ def loadJSON(filename):
             }
         }
 
-        print filename + ' load error\n'
+        print filename + ' load error - creating new file\n'
 
     return data
 
@@ -87,10 +85,6 @@ def get_poo_pic(info):
     filename = src.split('/')[-1]
     filepath = poo_dir + filename
 
-    # if not os.path.exists(filepath):
-        # download(info['src'], filepath)
-        # print 'downloaded ' + filepath
-    # else:
     if os.path.exists(filepath):
         suffix = 2
         s = filename.split('.')
@@ -102,7 +96,6 @@ def get_poo_pic(info):
     download(info['src'], filepath)
     print 'downloaded ' + filepath
     time.sleep(0.2)
-    # return filepath
 
 
 def get_poo_info(content):
@@ -127,11 +120,9 @@ def get_poo_info(content):
         return None
 
     info = {
-        # 'index': lines[0].split(' ')[0].replace('#', ''),
         'title': title,
         'votes': votes,
         'rating': rating,
-        # 'matches': lines[6],
         'uploaded': uploaded,
         'src': src
     }
@@ -157,11 +148,8 @@ def scrape(q, page_start=0, page_stop=0):
 
     for result in results:
         if result.text.strip().startswith('#'):
-
-            # poo content
             content = result.select('font')[0]
 
-            # scrape poo
             info = get_poo_info(content)
             if not info:
                 continue
@@ -176,7 +164,7 @@ def scrape(q, page_start=0, page_stop=0):
     if new_results:
         writeJSON()
 
-    # next page?
+    # next page
     next_to_last_link = soup.select('a')[-2]
     if next_to_last_link.get('href').startswith('/xyzzy/search'):
         next_page = page_start + 1
@@ -210,8 +198,7 @@ if __name__ == '__main__':
         print 'no query provided'
         sys.exit()
 
-    print 'q: ' + q + '\n'
-    # time.sleep(1.5)
+    print q + '\n'
 
     if args.download:
         poo_dir = args.directory
@@ -228,11 +215,8 @@ if __name__ == '__main__':
         poo_dir = None
         print 'dry run\n'
 
-    # time.sleep(1.5)
-
     if args.json:
         jsonfile = args.json
         data = loadJSON(jsonfile)
-        # time.sleep(1.5)
 
     scrape(q, args.start_page, args.end_page)
