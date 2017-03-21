@@ -70,7 +70,7 @@ def update_searched(q):
 
 
 def add_unsearched(title):
-    title_set = set(title.lower().encode('utf-8').translate(None, string.punctuation).split(' '))
+    title_set = set(title.encode('utf-8').translate(None, string.punctuation).split(' '))
     searched = set(data['searched'])
 
     new_set = title_set.difference(searched)
@@ -108,44 +108,22 @@ def get_poo_pic(info):
 def get_poo_info(content):
     text = content.text.strip()
     lines = re.split('\n', text)
-    title = ':'.join(lines[0].split(':')[1:]).strip()
-    vr = lines[1].split(' ')
-    votes = vr[1]
-    rating = vr[3]
+    split_0 = lines[0].split(':')
+    title = ':'.join(split_0[1:]).strip()
+    split_1 = lines[1].split(' ')
+    votes = split_1[1]
+    rating = split_1[3]
     uploaded = lines[3].split(' ')[1]
 
     img = content.findNext('img')
     src = img.get('src').replace('/t/', '/b/')
     filename = src.split('/')[-1]
 
-    # print lines[0]
-
     result_num = int(lines[0].split(' ')[0].replace('#', ''))
     if result_num % 10 == 0:
-        print lines[0] + '\n'
+        print split_0[0] + '\n'
 
-    if filename in data['dump'] and data['dump'][filename]['votes'] == 'Votes':
-        print 'title:', title
-        print 'votes:', votes
-        print 'rating:', rating
-        print 'uploaded:', uploaded
-        print ''
-
-        info = {
-            # 'index': lines[0].split(' ')[0].replace('#', ''),
-            'title': title,
-            'votes': votes,
-            'rating': rating,
-            # 'matches': lines[6],
-            'uploaded': uploaded,
-            'src': src
-        }
-
-        data['dump'][filename] = info
-        add_unsearched(title)
-        return False
-
-    elif filename in data['dump'] and data['dump'][filename]['src'] == src:
+    if filename in data['dump'] and data['dump'][filename]['src'] == src:
         return None
 
     info = {
@@ -163,9 +141,8 @@ def get_poo_info(content):
     return info
 
 
-count = 0
 def scrape(q, page_start=0, page_stop=0):
-    count = 0
+    new_results = False
     update_searched(q)
 
     url = 'http://www.ratemypoo.com/xyzzy/search'
@@ -187,20 +164,16 @@ def scrape(q, page_start=0, page_stop=0):
             # scrape poo
             info = get_poo_info(content)
             if not info:
-                if info is False:
-                    writeJSON()
-                    count += 1
                 continue
             elif poo_dir:
                 get_poo_pic(info)
 
-            count += 1
-            # print results
+            new_results = True
             pprint(info)
             print ''
             time.sleep(0.2)
 
-    if count > 0:
+    if new_results:
         writeJSON()
 
     # next page?
