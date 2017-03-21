@@ -168,7 +168,8 @@ def scrape(q, page_start=0, page_stop=0):
                 get_poo_pic(info)
 
             new_results = True
-            pprint(info)
+            for k, v in info.iteritems():
+                print k + ': ' + str(v)
             print ''
             time.sleep(0.2)
 
