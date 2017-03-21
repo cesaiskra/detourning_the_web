@@ -158,7 +158,7 @@ def scrape(q, page_start=0, page_stop=0):
 
             new_results = True
             for k, v in info.iteritems():
-                print k + ': ' + str(v)
+                print k + ': ' + v
             print ''
 
     if new_results:
