@@ -101,7 +101,8 @@ def get_poo_pic(info):
     info['path'] = filepath
     download(info['src'], filepath)
     print 'downloaded ' + filepath
-    return filepath
+    time.sleep(0.2)
+    # return filepath
 
 
 def get_poo_info(content):
@@ -171,7 +172,6 @@ def scrape(q, page_start=0, page_stop=0):
             for k, v in info.iteritems():
                 print k + ': ' + str(v)
             print ''
-            time.sleep(0.2)
 
     if new_results:
         writeJSON()
