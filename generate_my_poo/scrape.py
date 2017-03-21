@@ -18,6 +18,10 @@ def loadJSON(filename):
         data = {
             'searched': [],
             'unsearched': [],
+            'blacklist': [],
+            # 'errors': {
+
+            # },
             'dump': {
                 # "32ffff7d679db5348792084a67a1d753.jpg": {
                 #   "uploaded": "2005-12-03",
@@ -116,8 +120,10 @@ def get_poo_info(content):
     if result_num % 10 == 0:
         print split_0[0] + '\n'
 
-    if filename in data['dump'] and data['dump'][filename]['src'] == src or filename == '973b15b90a05b0da4da7db8da04517bd.jpg':
+    if filename in data['dump'] and data['dump'][filename]['src'] == src or filename in data['blacklist']:
         return None
+
+    # validate data
 
     info = {
         'title': title,
