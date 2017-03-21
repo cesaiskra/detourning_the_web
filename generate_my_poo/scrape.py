@@ -3,7 +3,6 @@ import requests
 import time
 import re
 import json
-import string
 import os.path
 import sys
 from pprint import pprint
@@ -70,7 +69,7 @@ def update_searched(q):
 
 
 def add_unsearched(title):
-    title_set = set(title.encode('utf-8').translate(None, string.punctuation).split(' '))
+    title_set = set(title.lower().split(' '))
     searched = set(data['searched'])
 
     new_set = title_set.difference(searched)
