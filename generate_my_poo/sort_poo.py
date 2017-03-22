@@ -6,20 +6,30 @@ from pprint import pprint
 
 jsonfile = argv[1]
 
+source_dir = 'src/'
+target_dir = 'sorted/'
+
 with open(jsonfile) as d:
     data = json.load(d)
 
 images = data['dump']
 
-redo_words = ''
-files = {
-    # filename: src
-}
-for image, info in images.iteritems():
-    if 'Rating' in info['rating']:
-        redo_words += info['title'] + ' '
-        files[image] = info['src']
+for filename, info in images.iteritems():
+    origin = source_dir + filename
+    rating = int(round(float(info['rating'])))
+    if rating < 1:
+        print filename
+        pprint(info)
 
-print redo_words
-print '\n'
-pprint(files)
+    # folder = target_dir + str(rating) + '/'
+    # target = folder + filename
+
+    # if not os.path.exists(folder):
+    #     os.makedirs(folder)
+
+    # try:
+    #     os.rename(origin, target)
+    #     # print origin, target
+    #     pass
+    # except:
+    #     print 'error', filename
