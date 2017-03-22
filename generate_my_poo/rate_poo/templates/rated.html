@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <title>{{title}}</title>
+    <link rel="icon" href="/static/brown.png" type="image/x-icon" />
+    <style>
+    pre {
+        white-space: pre-wrap;
+        /* css-3 */
+        white-space: -moz-pre-wrap;
+        /* Mozilla, since 1999 */
+        white-space: -pre-wrap;
+        /* Opera 4-6 */
+        white-space: -o-pre-wrap;
+        /* Opera 7 */
+        word-wrap: break-word;
+        /* Internet Explorer 5.5+ */
+        font-family: 'Menlo', 'Courier New', 'Consola';
+        line-height: 0.7;
+        font-size: 7px;
+    }
+    h1 {
+      font-size: 50px;
+    }
+    </style>
+</head>
+
+<body>
+    <center>
+        <br>
+        <h3>This poo is a</h3>
+        <h1>{{rating}}/10</h1>
+        <pre>{{ascii}}</pre>
+        <br>
+        <br>
+        <form method="post" enctype="multipart/form-data">
+          <p><input type="file" name="file">
+             <input type="submit" value="Upload">
+        </form>
+    </center>
+</body>
+
+</html>
